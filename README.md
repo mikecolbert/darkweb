@@ -1,35 +1,31 @@
 # darkweb
 
-https://www.torproject.org
+Download browser from https://www.torproject.org
+
+https://whatismyipaddress.com 
+Do this not on Tor and then on Tor to see the address change.
 
 
-Regular browsing:  Get Europe address adn visit CNN, compare to US
-
-https://m.facebookcorewwwi.onion/
-
-https://protonirockerxow.onion/login
+Facebook:  https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/
 
 
+NYT:  https://www.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion/
+NYT tips:  https://www.nytimes.com/tips
+NYT Secure Drop:  http://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion
 
-NPR:  http://5ha7oig7du2jeyer.onion/
-
-http://silkroadkaxmspva.onion/
-
-
-https://www.wsj.com/tips
-WSJ Tips: bi5wxtllt3jkz4bcvdmmw4euxjiteyo7xtkwp7rtxqlyyblsb2um7nyd.onion
-
-https://www.washingtonpost.com/anonymous-news-tips/
-
-https://www.forbes.com/tips/#a8ae28a226a0
+CNN Secure Drop: http://qmifwf762qftydprw2adbg7hs2mkunac5xrz3cb5busaflji3rja5lid.onion
 
 
-White House Market
+The Hidden Wiki:  wikikzps6ms4g7zfpqd3to3ru4cs2dp4vzhyzhwkyave2l7mratspqyd.onion 
+
+Dark Web Hackers:  http://zkj7mzglnrbvu3elepazau7ol26cmq7acryvsqxvh4sreoydhzin7zid.onion/
+
+MGM Grand Market: http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion
 Username: 2c3d4r
 Password: R4Z7c9b8
-auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion
+passcode: 020202
 
-
-Tor2door Market Link – jtli3cvjuwk25vys2nveznl3spsuh5kqu2jcvgyy2easppfx5g54jmid.onion
-
-http://darkfailllnkf4vf.onion/
+Incognito Market:  http://incognirftkvasqxfh2iess6cr5a243y72z3vbz75nvj2fx62a5ukpad.onion
+Username: 2c3d4r
+Password: R4Z7c9b7
+secret word: somewhat
