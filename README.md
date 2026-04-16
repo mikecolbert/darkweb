@@ -9,7 +9,7 @@ Do this not on Tor and then on Tor to see the address change.
 Facebook:  https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/  
 
 
-NYT:  https://www.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion/  
+NYT:    
 NYT tips:  https://www.nytimes.com/tips  
 NYT Secure Drop:  http://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion  
 
