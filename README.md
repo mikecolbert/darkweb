@@ -15,12 +15,13 @@ NYT Secure Drop:  http://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufq
 
 CNN Secure Drop: http://qmifwf762qftydprw2adbg7hs2mkunac5xrz3cb5busaflji3rja5lid.onion  
 
+Torch search engine: http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion
 
 The Hidden Wiki:  wikikzps6ms4g7zfpqd3to3ru4cs2dp4vzhyzhwkyave2l7mratspqyd.onion   
 
 Dark Web Hackers:  http://zkj7mzglnrbvu3elepazau7ol26cmq7acryvsqxvh4sreoydhzin7zid.onion/  
 
-MGM Grand Market: http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion  
+wethenorth: hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.onion  
 Username: 2c3d4r  
 Password: R4Z7c9b8  
 passcode: 020202  
