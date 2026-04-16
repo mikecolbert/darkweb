@@ -27,8 +27,9 @@ Password: R4Z7c9b8
 passcode: 020202  
 
 TorZon Market: uhttp://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion/
-TorZon (mirror): http://torzon4rjw2mb46vpz5j2znwnz25t2v5y2xklada2oy5gnumsu5n4dad.onion/I
+TorZon (mirror): http://torzon4rjw2mb46vpz5j2znwnz25t2v5y2xklada2oy5gnumsu5n4dad.onion/  
 Username: 2c3d4r2  
 Password: R4Z7c9b745  
 secret word: somewhat 
-pin: 020202
+pin: 020202  
+85VHk3jFVH5JSyVdgeo2ovY0CzWZWLaSHwtexyX5bEf426eVvB
