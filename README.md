@@ -26,7 +26,9 @@ Username: 2c3d4r
 Password: R4Z7c9b8  
 passcode: 020202  
 
-Incognito Market:  http://incognirftkvasqxfh2iess6cr5a243y72z3vbz75nvj2fx62a5ukpad.onion  
+TorZon Market: uhttp://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion/
+TorZon (mirror): http://torzon4rjw2mb46vpz5j2znwnz25t2v5y2xklada2oy5gnumsu5n4dad.onion/I
 Username: 2c3d4r  
 Password: R4Z7c9b7  
-secret word: somewhat  
+secret word: somewhat 
+pin: 020202
