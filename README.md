@@ -8,6 +8,7 @@ Do this not on Tor and then on Tor to see the address change.
 
 Facebook:  https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/  
 
+Microfiles: http://s5xf5q2qbxxts2ytugxr3fcumd2r66z3yp4rzlzscmunyot2ibtlb3id.onion/index.html
 
 NYT:    
 NYT tips:  https://www.nytimes.com/tips  
